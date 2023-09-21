@@ -1,6 +1,6 @@
 # Hi there, I'm John Wostenberg 👋
 
-Here is my GPG key:
+Here is my GPG/PGP key:
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
